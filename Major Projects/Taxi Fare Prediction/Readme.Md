@@ -1,5 +1,8 @@
 Problem Statement
 This case study is to predict the taxi fare for a taxi ride in New York City from a given pickup point to the dropoff location. Try Building Predictive Model Using various algorithm like Decision tree and Random Forest.
+
+
+
 Data Definition
 unique_id: Unique identifier - (string)
 date_time_of_pickup: time when the ride started - (timestamp)
@@ -9,6 +12,9 @@ longitude_of_dropoff: Longitude of the taxi ride dropoff point - (float) - (Nume
 latitude_of_dropoff: Latitude of the taxi ride dropoff point - (float) - (Numerical)
 no_of_passenger: count of the passengers during the ride - (integer) - (Numerical)
 amount: Fair for the taxi ride in dollar(target variable)
+
+
+
 Table of Contents
 Import Libraries
 Set Options
