@@ -15,16 +15,6 @@ Class Imbalancement
 Installation
 
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/credit-card-fraud-detection.git
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-
 
 Navigate to the project directory:
 bash
